@@ -806,6 +806,91 @@ header .container .menu {
   max-width: 200px;
 }
 
+.message-section .section-title h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 800;
+  max-width: 450px;
+  margin-bottom: -80px;
+  margin-top: -50px;
+  padding-left: 20px;
+}
+.message-section .container {
+  background-color: #F0EFE9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20px;
+}
+.message-section .container .inputs .name-input {
+  margin-bottom: 20px;
+  width: 1020px;
+  background-color: white;
+  border-radius: 35px;
+  padding: 10px;
+}
+.message-section .container .inputs .name-input input {
+  width: 300px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.message-section .container .inputs .mail-input {
+  margin-bottom: 20px;
+  width: 1020px;
+  background-color: white;
+  border-radius: 35px;
+  padding: 10px;
+}
+.message-section .container .inputs .mail-input input {
+  width: 300px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.message-section .container .inputs .message-input {
+  margin-bottom: 20px;
+  width: 1020px;
+  height: 160px;
+  background-color: white;
+  border-radius: 35px;
+  padding: 10px;
+}
+.message-section .container .inputs .message-input input {
+  width: 300px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.message-section .btn-long {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.message-section .btn-long .container {
+  background-color: #F0EFE9;
+  padding-bottom: 80px;
+}
+.message-section .btn-long .container .btn-yellow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F9D783;
+  border: 1px solid #F9D783;
+  color: #191919;
+  text-decoration: none;
+  padding: 12px 25px;
+  font-weight: 600;
+  border-radius: 25px;
+  font-size: 16px;
+  width: 1020px;
+}
+
+.map-section {
+  padding-top: 100px;
+}
+
 .section-title {
   padding-top: 70px;
   padding-bottom: 40px;
