@@ -463,6 +463,7 @@ header .container .menu {
   height: 333px;
 }
 .Service-and-consulting .container .consulting .business:hover {
+  transition: background-color 0.3s ease;
   background-color: #F9D783;
 }
 .Service-and-consulting .container .consulting .startup {
@@ -471,6 +472,7 @@ header .container .menu {
   height: 333px;
 }
 .Service-and-consulting .container .consulting .startup:hover {
+  transition: background-color 0.3s ease;
   background-color: #F9D783;
 }
 .Service-and-consulting .container .consulting .financial {
@@ -479,6 +481,7 @@ header .container .menu {
   height: 333px;
 }
 .Service-and-consulting .container .consulting .financial:hover {
+  transition: background-color 0.3s ease;
   background-color: #F9D783;
 }
 .Service-and-consulting .container .consulting .risk {
@@ -487,6 +490,7 @@ header .container .menu {
   height: 333px;
 }
 .Service-and-consulting .container .consulting .risk:hover {
+  transition: background-color 0.3s ease;
   background-color: #F9D783;
 }
 .Service-and-consulting .container .consulting .knapp {
